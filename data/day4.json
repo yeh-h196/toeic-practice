@@ -1,0 +1,356 @@
+{
+ "day": 4,
+ "date": "2026-11-01",
+ "title": "TOEIC 每日練習 Day 4（2026-11-01）",
+ "summary": "Day 1 全對，所以今天難度明顯提高：Part 5 加入假設語氣倒裝、原形假設語氣、就近原則與非限定關係子句；閱讀換成較長的電子郵件並加入 NOT 題；聽力加入間接回答，Part 3 對話增加為 3 題。做完按「交卷」就會自動回傳成績。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "作答技巧：先看選項判斷題型。選項是同一字根不同詞性就是詞性題，看結構；選項是不同單字就是字彙題，看搭配詞；選項是連接詞和介系詞混合，就看空格後是子句還是名詞。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "------- the shipment arrives, the warehouse staff will inspect every box.",
+     "opts": [
+      "As soon as",
+      "Despite",
+      "Due to",
+      "Meanwhile"
+     ],
+     "ans": 0,
+     "exp": "空格後是完整子句（the shipment arrives），要用連接詞。As soon as（一……就……）是時間連接詞，主要子句用未來式、時間子句用現在式代替未來。Despite、Due to 是介系詞，只能接名詞；Meanwhile 是副詞，不能連接兩個子句。"
+    },
+    {
+     "n": 2,
+     "stem": "Neither the manager nor the assistants ------- aware of the schedule change.",
+     "opts": [
+      "was",
+      "were",
+      "is",
+      "being"
+     ],
+     "ans": 1,
+     "exp": "Neither A nor B 當主詞時，動詞跟「靠近動詞的 B」一致（就近原則）。B 是複數 the assistants，所以用 were。Either A or B、not only A but also B 也一樣。"
+    },
+    {
+     "n": 3,
+     "stem": "Applicants ------- résumés are selected will be contacted by e-mail.",
+     "opts": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+     ],
+     "ans": 1,
+     "exp": "空格後面是名詞 résumés，表示「申請者『的』履歷」，要用所有格關係代名詞 whose。who、whom 後面要接缺主詞或缺受詞的子句，不會直接接名詞。"
+    },
+    {
+     "n": 4,
+     "stem": "The company plans to ------- its operations into Southeast Asia next year.",
+     "opts": [
+      "expand",
+      "exceed",
+      "exchange",
+      "explain"
+     ],
+     "ans": 0,
+     "exp": "expand operations into + 地區（把業務擴展到某地）是 TOEIC 高頻搭配。exceed 是「超過（數量、期待）」；exchange 是「交換」；explain 是「解釋」，字首都是 ex-，是字形陷阱。"
+    },
+    {
+     "n": 5,
+     "stem": "Had we known about the delay, we ------- a different flight.",
+     "opts": [
+      "would book",
+      "would have booked",
+      "had booked",
+      "will book"
+     ],
+     "ans": 1,
+     "exp": "Had we known = If we had known（省略 if 的倒裝），是「與過去事實相反」的假設，主要子句用 would have + p.p.：would have booked。這是較難的題型，看到句首 Had + 主詞 + p.p. 就要聯想。"
+    },
+    {
+     "n": 6,
+     "stem": "All visitors must sign in at the front desk ------- entering the laboratory.",
+     "opts": [
+      "prior to",
+      "previously",
+      "ahead",
+      "in front"
+     ],
+     "ans": 0,
+     "exp": "prior to = before（在……之前），是介系詞，後面接 V-ing（entering）。previously 是副詞（先前地），ahead 要用 ahead of，in front 要用 in front of 而且指位置，不指時間。"
+    },
+    {
+     "n": 7,
+     "stem": "The new software is designed to make data entry more -------.",
+     "opts": [
+      "efficient",
+      "efficiency",
+      "efficiently",
+      "efficiencies"
+     ],
+     "ans": 0,
+     "exp": "make + 受詞 + 形容詞（使某物變得……），所以 more 後面要形容詞 efficient。常見錯誤是看到 more 就選副詞，但這裡是補語，補充說明 data entry 的狀態。"
+    },
+    {
+     "n": 8,
+     "stem": "Mr. Lin, ------- has worked here for 20 years, will retire next month.",
+     "opts": [
+      "who",
+      "which",
+      "that",
+      "whose"
+     ],
+     "ans": 0,
+     "exp": "先行詞 Mr. Lin 是人，空格後缺主詞，用 who。注意有逗號的「非限定用法」不能用 that，這是常考陷阱。which 用於事物；whose 後面要接名詞。"
+    },
+    {
+     "n": 9,
+     "stem": "The marketing team is designing a campaign that will ------- younger customers.",
+     "opts": [
+      "attract",
+      "attend",
+      "attach",
+      "admit"
+     ],
+     "ans": 0,
+     "exp": "attract customers（吸引顧客）是固定搭配。attend 是「出席」；attach 是「附上、連接」；admit 是「承認、准許進入」。四個都是 a- 開頭的字形陷阱。"
+    },
+    {
+     "n": 10,
+     "stem": "Ms. Huang requested that the report ------- by Thursday.",
+     "opts": [
+      "be submitted",
+      "is submitted",
+      "submits",
+      "was submitting"
+     ],
+     "ans": 0,
+     "exp": "request、suggest、require、recommend + that 子句時，子句動詞用「原形」（省略 should），這叫假設語氣的原形用法。報告是被提交，所以用被動原形 be submitted。這是 600–700 分常考題。"
+    },
+    {
+     "n": 11,
+     "stem": "Ticket prices will remain the same ------- the cost of fuel has risen.",
+     "opts": [
+      "even though",
+      "in spite of",
+      "so that",
+      "as a result"
+     ],
+     "ans": 0,
+     "exp": "前後語意相反（燃料成本上升，票價卻不變），而且後面是完整子句，要用連接詞 even though。in spite of 是介系詞，只能接名詞；so that 表目的；as a result 表結果，而且是副詞片語。"
+    },
+    {
+     "n": 12,
+     "stem": "The quarterly report will be ------- to all shareholders by the end of the month.",
+     "opts": [
+      "distributed",
+      "contributed",
+      "attributed",
+      "retributed"
+     ],
+     "ans": 0,
+     "exp": "distribute A to B（把 A 分發給 B）。contribute to 是「貢獻、促成」；attribute A to B 是「把 A 歸因於 B」；retributed 不是常用字。字尾 -tributed 都一樣，要靠語意判斷。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "電子郵件類：先看 Subject 抓主旨。NOT 題不要找答案，要把文中有提到的選項一一刪掉，剩下的就是答案。",
+   "passage": [
+    "To: All Research Department Staff",
+    "From: Kevin Liu, Training Coordinator",
+    "Date: November 2",
+    "Subject: Change to safety training workshop",
+    "",
+    "Dear colleagues,",
+    "The laboratory safety workshop originally scheduled for Thursday, November 5, has been moved to Friday, November 13, because the guest instructor from Taiwan Safety Institute is unable to travel next week. The workshop will still be held in Room 305 from 1:30 P.M. to 4:30 P.M.",
+    "Please note that attendance is mandatory for all staff who use the chemical storage area. Those who do not complete the workshop by the end of the month will have their storage-area access temporarily suspended.",
+    "If you have already registered, you do not need to register again. Staff who have not yet signed up should do so on the training page of the company intranet by November 10. Refreshments will be provided.",
+    "Best regards,",
+    "Kevin Liu"
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "Why has the workshop been rescheduled?",
+     "opts": [
+      "The room is being renovated",
+      "The instructor cannot come next week",
+      "Not enough staff have registered",
+      "The chemical storage area is closed"
+     ],
+     "ans": 1,
+     "exp": "原因題：because the guest instructor ... is unable to travel next week。A、C、D 文中都沒說，Room 305、registered、chemical storage area 只是重複字陷阱。"
+    },
+    {
+     "n": 14,
+     "stem": "What will happen to staff who do not attend the workshop by the end of the month?",
+     "opts": [
+      "They will pay a fine",
+      "They must take an online test",
+      "They will lose access to an area for a while",
+      "They will be moved to another department"
+     ],
+     "ans": 2,
+     "exp": "細節題（換句話說）：have their storage-area access temporarily suspended = lose access to an area for a while。temporarily 對應 for a while。TOEIC 閱讀答案幾乎都會「換句話說」，不會照抄原文。"
+    },
+    {
+     "n": 15,
+     "stem": "What is NOT mentioned about the workshop?",
+     "opts": [
+      "Its location",
+      "Its length",
+      "Its cost",
+      "Its registration deadline"
+     ],
+     "ans": 2,
+     "exp": "NOT 題要逐一刪去：地點 Room 305、時間 1:30 到 4:30（長度 3 小時）、報名期限 November 10 都有提到；只有費用沒提。Refreshments will be provided 是供應茶點，不是費用。"
+    },
+    {
+     "n": 16,
+     "stem": "The word “mandatory” in paragraph 2 is closest in meaning to",
+     "opts": [
+      "required",
+      "optional",
+      "popular",
+      "expensive"
+     ],
+     "ans": 0,
+     "exp": "同義字題：mandatory = required（強制的、必須的）。optional（可選擇的）是反義字。可以用後一句「沒參加就停權」來反推意思。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "今天加入「間接回答」：正確答案不一定直接回答問題，而是給一個合理的回應（例如「我已經訂了」）。聽到和題目相同或發音相近的字，先懷疑它是陷阱。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Where can I find the new price list?",
+     "opts": [
+      "It's on the shared drive.",
+      "The prices went up.",
+      "Yes, I found it."
+     ],
+     "ans": 0,
+     "exp": "Where 問地點 → on the shared drive（在共用雲端硬碟）。B 重複 price；C 用 Yes 回答 Wh 問句，又重複 find 的過去式 found。",
+     "audio": "d4_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Why was the client meeting postponed?",
+     "opts": [
+      "In conference room B.",
+      "The director is still on a business trip.",
+      "Next Tuesday at ten."
+     ],
+     "ans": 1,
+     "exp": "Why 問原因，答案不一定有 because：主管還在出差，就是延期的理由。A 答地點、C 答時間，都是在回答 Where / When。",
+     "audio": "d4_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Would you like me to print the agenda, or will you do it?",
+     "opts": [
+      "I'll take care of it, thanks.",
+      "The printer is brand new.",
+      "Yes, I would."
+     ],
+     "ans": 0,
+     "exp": "選擇疑問句（A or B）不能用 Yes / No 回答，所以 C 錯。I'll take care of it（我來處理）選了後者。B 是 print / printer 的字形聯想陷阱。",
+     "audio": "d4_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "How often do you visit the Kaohsiung office?",
+     "opts": [
+      "By high-speed rail.",
+      "About twice a month.",
+      "It's a large office."
+     ],
+     "ans": 1,
+     "exp": "How often 問頻率 → twice a month。A 是回答 How（怎麼去）；C 重複 office。How often、How long、How far、How much 要分清楚。",
+     "audio": "d4_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "The client hasn't signed the contract yet, has she?",
+     "opts": [
+      "She said she'd mail it back tomorrow.",
+      "Sign here, please.",
+      "No, the contractor is busy."
+     ],
+     "ans": 0,
+     "exp": "附加問句問「簽了沒」，答案用間接回答：她說明天寄回來（暗示還沒簽）。這種不直接說 Yes / No 的回答在 600 分以上很常見。B 重複 sign；C 的 contractor 與 contract 字形相近。",
+     "audio": "d4_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Shouldn't we order more paper for the copier?",
+     "opts": [
+      "I already placed an order this morning.",
+      "Two copies, please.",
+      "It's a nice paper bag."
+     ],
+     "ans": 0,
+     "exp": "否定疑問句其實是在建議「我們是不是該訂紙」。A 用「我早上已經下單了」間接回應，最自然。B 是 copier / copies 字形陷阱；C 重複 paper。",
+     "audio": "d4_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 3 簡短對話（建議 4 分鐘）",
+   "tip": "正式考試的題目和選項印在題本上，播放前先讀完三題題目，並抓關鍵字（problem、Wednesday、next）。三題答案通常依對話順序出現。",
+   "audio": "d4_S.mp3",
+   "script": [
+    "M: Hi, Grace. I just checked the production schedule, and we're running behind on the order for Delta Electronics. They need two thousand units by next Friday.",
+    "W: I know. One of the cutting machines broke down on Monday, and the replacement part won't arrive until Wednesday.",
+    "M: Hmm. What if we ask the night shift to work two extra hours this week? That should help us catch up.",
+    "W: That could work. I'll talk to the night-shift supervisor this afternoon and let you know what she says."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "What problem are the speakers discussing?",
+     "opts": [
+      "A product has a defect",
+      "A customer canceled an order",
+      "Production is behind schedule",
+      "A supervisor is on vacation"
+     ],
+     "ans": 2,
+     "exp": "主旨題看開頭：we're running behind on the order = 生產進度落後。A 的 defect（瑕疵）沒有提到；機器故障是原因，不是產品瑕疵。"
+    },
+    {
+     "n": 24,
+     "stem": "According to the woman, what will happen on Wednesday?",
+     "opts": [
+      "A machine part will be delivered",
+      "An order will be shipped",
+      "A meeting will be held",
+      "A new worker will start"
+     ],
+     "ans": 0,
+     "exp": "細節題：the replacement part won't arrive until Wednesday = 零件要到週三才會送到。not ... until 是「直到……才」，很多人會誤聽成「週三前不到」就猶豫，其實意思就是週三才到。"
+    },
+    {
+     "n": 25,
+     "stem": "What will the woman most likely do next?",
+     "opts": [
+      "Repair the machine herself",
+      "Speak with a supervisor",
+      "Call Delta Electronics",
+      "Revise the schedule"
+     ],
+     "ans": 1,
+     "exp": "下一步題答案在最後一句：I'll talk to the night-shift supervisor this afternoon = Speak with a supervisor。題目說 most likely，要找說話者自己說「我會……」的部分。"
+    }
+   ]
+  }
+ ]
+}
