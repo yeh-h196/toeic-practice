@@ -1,0 +1,249 @@
+{
+ "day": 1,
+ "date": "2026-10-29",
+ "title": "TOEIC 每日練習 Day 1（2026-10-29）",
+ "summary": "目前約 500 分，目標 650。點選答案立即看對錯與解析，30 分鐘做完 18 題後，把分數回報到聊天室。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 12 分鐘）",
+   "tip": "",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "The new assembly line will be ------- by the end of next month.",
+     "opts": [
+      "complete",
+      "completed",
+      "completing",
+      "completion"
+     ],
+     "ans": 1,
+     "exp": "被動語態 will be + 過去分詞：生產線是「被完成」。complete 當形容詞語意是「完整的」，不合；completing 是主動進行；completion 是名詞，不能接在 be 後當動作。"
+    },
+    {
+     "n": 2,
+     "stem": "Ms. Chen asked that all reports ------- before Friday.",
+     "opts": [
+      "submit",
+      "be submitted",
+      "submitting",
+      "are submitted"
+     ],
+     "ans": 1,
+     "exp": "ask / request / suggest that 後面用原形動詞（假設語氣），報告是「被提交」，所以用 be submitted。submit 是主動；submitting 不是完整動詞；are submitted 不符合原形規則。"
+    },
+    {
+     "n": 3,
+     "stem": "Employees must wear safety goggles ------- operating the cutting machine.",
+     "opts": [
+      "during",
+      "while",
+      "since",
+      "unless"
+     ],
+     "ans": 1,
+     "exp": "while + V-ing（省略主詞的副詞子句）表示「在做……的時候」。during 是介系詞，後面接名詞（during the operation），不接 V-ing；since 是「自從 / 因為」；unless 是「除非」，語意不合。"
+    },
+    {
+     "n": 4,
+     "stem": "The supplier offered a discount ------- we placed a large order.",
+     "opts": [
+      "because of",
+      "despite",
+      "because",
+      "due"
+     ],
+     "ans": 2,
+     "exp": "空格後是完整子句（we placed...），要用連接詞 because。because of 和 despite 是介系詞，只能接名詞；due 要寫成 due to，也是接名詞。"
+    },
+    {
+     "n": 5,
+     "stem": "Please contact the maintenance team ------- the machine stops working.",
+     "opts": [
+      "if",
+      "so",
+      "but",
+      "or"
+     ],
+     "ans": 0,
+     "exp": "條件句：「如果」機器停止運作就聯絡維修。so（所以）、but（但是）、or（或者）都無法表達條件關係。"
+    },
+    {
+     "n": 6,
+     "stem": "Our sales increased ------- after the new product was launched.",
+     "opts": [
+      "significant",
+      "significance",
+      "significantly",
+      "signify"
+     ],
+     "ans": 2,
+     "exp": "修飾動詞 increased 要用副詞 significantly。significant 是形容詞，修飾名詞；significance 是名詞；signify 是動詞。TOEIC 常考：動詞後面修飾 → -ly 副詞。"
+    },
+    {
+     "n": 7,
+     "stem": "Neither the manager nor the engineers ------- aware of the problem.",
+     "opts": [
+      "was",
+      "were",
+      "is",
+      "being"
+     ],
+     "ans": 1,
+     "exp": "neither A nor B 的動詞跟 B（靠近動詞的那個）一致。B = the engineers（複數），所以用 were。was / is 是單數；being 不是完整動詞。"
+    },
+    {
+     "n": 8,
+     "stem": "The conference room is ------- for meetings of up to twenty people.",
+     "opts": [
+      "suitable",
+      "suitably",
+      "suit",
+      "suiting"
+     ],
+     "ans": 0,
+     "exp": "be 動詞後面接形容詞當補語：be suitable for（適合……）。suitably 是副詞，不能單獨當補語；suit 是動詞 / 名詞；suiting 不合語意。"
+    },
+    {
+     "n": 9,
+     "stem": "Mr. Lin has worked at the factory ------- 2019.",
+     "opts": [
+      "for",
+      "since",
+      "from",
+      "at"
+     ],
+     "ans": 1,
+     "exp": "現在完成式 + since + 時間點（2019）。for 接一段時間（for five years）；from 要搭配 to / until；at 用在時刻。"
+    },
+    {
+     "n": 10,
+     "stem": "The shipment arrived later ------- expected.",
+     "opts": [
+      "as",
+      "then",
+      "than",
+      "that"
+     ],
+     "ans": 2,
+     "exp": "比較級 later 後接 than。then 是「然後 / 那時」，常被拼錯混淆；as 用在 as...as；that 不能接比較級。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 8 分鐘）",
+   "tip": "",
+   "passage": [
+    "Notice to All Staff",
+    "From November 3 to November 5, the main parking lot will be closed for repairs. Staff are asked to park in the east lot on Harbor Road during this period. A free shuttle bus will run between the east lot and the main building every 15 minutes from 7:30 A.M. to 9:30 A.M. Please allow extra time for your morning commute. For questions, contact Facilities at extension 214."
+   ],
+   "qs": [
+    {
+     "n": 11,
+     "stem": "What is the purpose of the notice?",
+     "opts": [
+      "To announce a new shuttle route",
+      "To inform staff of a temporary closure",
+      "To request repair volunteers",
+      "To change working hours"
+     ],
+     "ans": 1,
+     "exp": "主旨題看第一句：停車場 11/3 到 11/5 因維修「暫時關閉」。接駁車只是配套措施，不是主旨；文中沒有徵求志工或改變上班時間。"
+    },
+    {
+     "n": 12,
+     "stem": "How often will the shuttle bus run?",
+     "opts": [
+      "Every 5 minutes",
+      "Every 10 minutes",
+      "Every 15 minutes",
+      "Every 30 minutes"
+     ],
+     "ans": 2,
+     "exp": "細節題：原文 every 15 minutes。小心不要被 7:30 到 9:30 這些數字干擾。"
+    },
+    {
+     "n": 13,
+     "stem": "What are staff advised to do?",
+     "opts": [
+      "Work from home",
+      "Call extension 214 every day",
+      "Leave earlier than usual",
+      "Park on the main road"
+     ],
+     "ans": 2,
+     "exp": "換句話說題：allow extra time for your morning commute（通勤多留時間）= leave earlier than usual。214 是有問題才打；停車是在 east lot on Harbor Road，不是 main road。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 10 分鐘）",
+   "tip": "按播放鍵聽題目和 A、B、C 三個回應，再點選答案。正式考試看不到文字，建議先不要打開文字稿。",
+   "qs": [
+    {
+     "n": 14,
+     "stem": "When will the new machine be delivered?",
+     "opts": [
+      "Yes, it's very new.",
+      "Probably next Tuesday.",
+      "In the warehouse."
+     ],
+     "ans": 1,
+     "exp": "When 問時間 → next Tuesday。Wh 疑問句不能用 Yes / No 回答，A 還重複 new 是陷阱；C 回答地點（Where）。",
+     "audio": "d1_14.mp3"
+    },
+    {
+     "n": 15,
+     "stem": "Who's in charge of the safety training?",
+     "opts": [
+      "Ms. Wang from HR.",
+      "At 2 o'clock.",
+      "It was very useful."
+     ],
+     "ans": 0,
+     "exp": "Who 問人 → Ms. Wang。B 回答時間（When）；C 是在評論訓練，答非所問。",
+     "audio": "d1_15.mp3"
+    },
+    {
+     "n": 16,
+     "stem": "Would you like me to print the report for you?",
+     "opts": [
+      "It's on page five.",
+      "That would be great, thanks.",
+      "The printer is new."
+     ],
+     "ans": 1,
+     "exp": "Would you like me to...? 是提議幫忙，接受就說 That would be great。A 用 report 聯想到 page；C 用 print 聯想到 printer，都是相關字陷阱。",
+     "audio": "d1_16.mp3"
+    },
+    {
+     "n": 17,
+     "stem": "Why was the meeting postponed?",
+     "opts": [
+      "The manager is sick.",
+      "In Room 302.",
+      "Yes, it was."
+     ],
+     "ans": 0,
+     "exp": "Why 問原因，回答可以直接講原因，不一定有 because。B 回答地點；C 是 Yes / No，不能回答 Why 問句。",
+     "audio": "d1_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Haven't you finished the drawings yet?",
+     "opts": [
+      "I'm almost done.",
+      "They're drawing now.",
+      "On the desk."
+     ],
+     "ans": 0,
+     "exp": "否定疑問句問「還沒完成嗎？」→ 快好了。B 用 drawing 重複字陷阱；C 回答地點。",
+     "audio": "d1_18.mp3"
+    }
+   ]
+  }
+ ]
+}
