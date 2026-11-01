@@ -1,4 +1,4 @@
-const L="ABCD";const D=window.DAY;const picked={},shown={};let tsec=1200,ton=false,tlab="閱讀",tid=null;
+const L="ABCD";const D=window.DAY;const KEY="toeic-day"+D.day;const SV=JSON.parse(localStorage.getItem(KEY)||"{}");const picked=SV.picked||{},shown={};const t0=SV.t0||Date.now();let submitted=SV.submitted||false;function save(){localStorage.setItem(KEY,JSON.stringify({picked,t0,submitted}))}let tsec=1200,ton=false,tlab="閱讀",tid=null;
 const $=s=>document.querySelector(s);const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=s=>Math.floor(s/60)+":"+String(s%60).padStart(2,"0");
 function tick(){$("#tm").textContent=tlab+" "+fmt(tsec);$("#tm").classList.toggle("end",tsec===0);$("#tgo").textContent=ton?"暫停":"開始"}
@@ -13,7 +13,7 @@ function card(q,part2){const p=picked[q.n],ans=p!==undefined,hide=part2&&!shown[
  return h+"</div>"}
 const Q={};D.sections.forEach(s=>s.qs.forEach(q=>{Q[q.n]=[q,s.kind==="part2"];(s.kind==="p5"?groups.grammar:s.kind==="p7"?groups.reading:groups.listening).push(q)}));
 function re(n){const a=document.querySelector("#q"+n);const pl=a.querySelector("audio");const t=pl&&pl.currentTime;a.outerHTML=card(...Q[n]);score()}
-window.pick=(n,i)=>{if(picked[n]!==undefined)return;picked[n]=i;re(n)};window.tog=n=>{shown[n]=!shown[n];re(n)};
+window.pick=(n,i)=>{if(picked[n]!==undefined)return;picked[n]=i;save();re(n)};window.tog=n=>{shown[n]=!shown[n];re(n)};
 window.togS=i=>{const e=$("#s"+i);e.hidden=!e.hidden};
 function sc(a){return[a.filter(q=>picked[q.n]===q.ans).length,a.filter(q=>picked[q.n]!==undefined).length,a.length]}
 function score(){const all=[...groups.grammar,...groups.reading,...groups.listening];const g=sc(groups.grammar),r=sc(groups.reading),l=sc(groups.listening),t=sc(all);
@@ -26,5 +26,17 @@ D.sections.forEach((s,i)=>{h+=`<h2>${esc(s.heading)}</h2>`+(s.tip?`<p class="tip
  if(s.audio)h+=`<audio controls preload="none" src="audio/${s.audio}"></audio>`;
  h+=s.qs.map(q=>card(q,s.kind==="part2")).join("");
  if(s.script)h+=`<button class="b" onclick="togS(${i})">顯示／隱藏文字稿</button><div class="box" id="s${i}" hidden>${s.script.map(x=>`<div>${esc(x)}</div>`).join("")}</div>`});
-h+=`<h2>今日成績</h2><div id="score"></div><button class="b" onclick="location.reload()">重新作答</button>`;
+h+=`<h2>今日成績</h2><div id="score"></div><button class="b p" id="sub" onclick="submitAll()">交卷</button><span id="subst" class="tip"></span><br><button class="b" onclick="if(confirm('清除作答重新開始？')){localStorage.removeItem(KEY);location.reload()}">重新作答</button>`;
 $("main").innerHTML=h;tick();score();
+
+window.submitAll=async()=>{const all=[...groups.grammar,...groups.reading,...groups.listening];const un=all.filter(q=>picked[q.n]===undefined).length;
+ if(un&&!confirm("還有 "+un+" 題沒作答，確定交卷？"))return;
+ const g=sc(groups.grammar),r=sc(groups.reading),l=sc(groups.listening),t=sc(all);
+ const res={v:1,day:D.day,date:D.date,ts:new Date().toISOString(),secondsUsed:Math.round((Date.now()-t0)/1000),
+  scores:{grammar:[g[0],g[2]],reading:[r[0],r[2]],listening:[l[0],l[2]],total:[t[0],t[2]]},
+  answers:all.map(q=>({n:q.n,picked:picked[q.n]===undefined?null:L[picked[q.n]],correct:L[q.ans],ok:picked[q.n]===q.ans}))};
+ $("#subst").textContent=" 傳送中…";
+ try{const x=await fetch("https://ntfy.sh/"+window.TOPIC,{method:"POST",body:JSON.stringify(res)});if(!x.ok)throw 0;submitted=true;save();
+  $("#subst").textContent=" ✅ 已交卷（總分 "+t[0]+"/"+t[2]+"），老師會直接看到你的答案，不用貼到聊天室。"}
+ catch(e){$("#subst").textContent=" ❌ 傳送失敗，請檢查網路後再按一次交卷。"}};
+if(submitted)$("#subst").textContent=" ✅ 這份已經交過卷了（可以再交一次，會以最新的為準）。";
