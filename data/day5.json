@@ -1,0 +1,352 @@
+{
+ "day": 5,
+ "date": "2026-11-02",
+ "title": "TOEIC 每日練習 Day 5（2026-11-02）",
+ "summary": "Day 4 你拿到 14/25，弱點集中在：連接詞與介系詞的區分、假設語氣、所有格關代 whose、make／keep + 受詞 + 形容詞、閱讀的換句話說與 NOT 題、Part 2 的 How often 與否定疑問句。今天難度維持 Day 4 水準，集中火力補這幾個弱點。做完按「交卷」就會自動回傳成績。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "今天重點：選項有連接詞（although、because、while）也有介系詞（despite、because of、during）時，只看一件事：空格後面有沒有動詞。有動詞是子句，用連接詞；只有名詞，用介系詞。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "------- the heavy rain, the outdoor concert was held as planned.",
+     "opts": [
+      "Despite",
+      "Although",
+      "Because",
+      "Unless"
+     ],
+     "ans": 0,
+     "exp": "空格後是名詞片語 the heavy rain，沒有動詞，要用介系詞 Despite（儘管）。Although、Because、Unless 都是連接詞，後面要接完整子句（主詞＋動詞）。這是你 Day 4 錯的「連接詞 vs 介系詞」題型，判斷關鍵永遠是：空格後有沒有動詞。"
+    },
+    {
+     "n": 2,
+     "stem": "------- the budget was approved, the project could not start until March.",
+     "opts": [
+      "Even though",
+      "In spite of",
+      "Regardless of",
+      "Instead of"
+     ],
+     "ans": 0,
+     "exp": "空格後 the budget was approved 有動詞 was approved，是完整子句，要用連接詞 Even though。In spite of、Regardless of、Instead of 都是介系詞片語，只能接名詞或 V-ing。"
+    },
+    {
+     "n": 3,
+     "stem": "If I ------- you, I would accept the job offer in Taipei.",
+     "opts": [
+      "am",
+      "were",
+      "had been",
+      "will be"
+     ],
+     "ans": 1,
+     "exp": "與「現在事實」相反的假設：If + 主詞 + 過去式（be 動詞一律用 were），主要子句 would + 原形。「如果我是你」現在不可能成真，所以用 were。"
+    },
+    {
+     "n": 4,
+     "stem": "------- you have any questions about the new policy, please contact the HR department.",
+     "opts": [
+      "Should",
+      "Would",
+      "Had",
+      "Were"
+     ],
+     "ans": 0,
+     "exp": "Should you have any questions = If you have any questions（省略 if 的倒裝）。這是商業書信超常見句型，後面接原形動詞 have。Had 倒裝要接 p.p.（Had you known）；Were 倒裝要接 to V 或名詞／形容詞。昨天錯的 Had we known 也是同一系列。"
+    },
+    {
+     "n": 5,
+     "stem": "If the supplier had delivered the parts on time, we ------- the deadline.",
+     "opts": [
+      "would meet",
+      "will meet",
+      "would have met",
+      "had met"
+     ],
+     "ans": 2,
+     "exp": "If 子句是 had delivered（過去完成式），代表與「過去事實」相反，主要子句用 would have + p.p.：would have met。口訣：if 用 had p.p.，主句就用 would have p.p.。"
+    },
+    {
+     "n": 6,
+     "stem": "The engineer ------- design won the competition will present it at the conference.",
+     "opts": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+     ],
+     "ans": 1,
+     "exp": "空格後直接接名詞 design，而且是「工程師『的』設計」，要用所有格關代 whose。who／whom 後面不會直接接名詞。這是 Day 4 Q3 的同類題，判斷方法：空格後是名詞且有「的」的關係，就選 whose。"
+    },
+    {
+     "n": 7,
+     "stem": "Customers have found the updated mobile app much easier and more ------- to use.",
+     "opts": [
+      "convenience",
+      "convenient",
+      "conveniently",
+      "conveniences"
+     ],
+     "ans": 1,
+     "exp": "find + 受詞 + 形容詞（覺得某物……），而且 and 前面是形容詞 easier，對等連接也要形容詞，所以選 convenient。和 Day 4 的 make + 受詞 + 形容詞是同一個觀念：受詞後面補充狀態要用形容詞，不是副詞。"
+    },
+    {
+     "n": 8,
+     "stem": "Please keep all confidential documents ------- in the cabinet.",
+     "opts": [
+      "securing",
+      "security",
+      "secure",
+      "securely"
+     ],
+     "ans": 2,
+     "exp": "keep + 受詞 + 形容詞（保持某物……的狀態），所以用 secure（安全的）。securely 是副詞，用來修飾動詞，例如 lock the door securely。"
+    },
+    {
+     "n": 9,
+     "stem": "The factory had to stop production ------- the power outage last night.",
+     "opts": [
+      "because",
+      "because of",
+      "so",
+      "although"
+     ],
+     "ans": 1,
+     "exp": "空格後 the power outage 是名詞片語，要用介系詞片語 because of。because 是連接詞，後面要接子句。與 due to、owing to 同類。"
+    },
+    {
+     "n": 10,
+     "stem": "Ms. Chen read the safety manual ------- she was waiting for the training to begin.",
+     "opts": [
+      "during",
+      "while",
+      "meanwhile",
+      "for"
+     ],
+     "ans": 1,
+     "exp": "空格後 she was waiting 是完整子句，要用連接詞 while（當……的時候）。during 是介系詞，只接名詞（during the training）；meanwhile 是副詞。during／while 是 TOEIC 每年必考的一組。"
+    },
+    {
+     "n": 11,
+     "stem": "All employees are required to ------- with the new data protection regulations.",
+     "opts": [
+      "comply",
+      "obey",
+      "follow",
+      "conform"
+     ],
+     "ans": 0,
+     "exp": "comply with（遵守）是固定搭配，空格後有 with 就是提示。obey 和 follow 是及物動詞，直接接受詞，不需要 with；conform 要搭 to。字彙題要看空格後的介系詞。"
+    },
+    {
+     "n": 12,
+     "stem": "The new assembly line has ------- reduced the time needed to produce each unit.",
+     "opts": [
+      "significance",
+      "significant",
+      "significantly",
+      "signify"
+     ],
+     "ans": 2,
+     "exp": "空格在助動詞 has 和過去分詞 reduced 中間，要用副詞修飾動詞，所以是 significantly（大幅地）。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "答案幾乎都是原文的「換句話說」，不要找一模一樣的字，要找一樣的意思。NOT 題把四個選項逐一回原文打勾，沒打到勾的就是答案。",
+   "passage": [
+    "NOTICE TO ALL TENANTS — Harbor View Business Center",
+    "",
+    "The parking garage beneath Harbor View Business Center will be closed from Monday, November 16, to Friday, November 20, so that the floor can be resurfaced and new lighting can be installed. During this period, tenants and their visitors may park at the Lin Street public lot, located two blocks east of the building.",
+    "Tenants who hold a monthly parking permit will not be charged at the Lin Street lot. Simply show your Harbor View permit to the attendant at the entrance. Visitors, however, will need to pay the lot's standard hourly rate.",
+    "Please note that the loading dock at the rear of the building will remain open, so deliveries will not be affected. We apologize for any inconvenience. For questions, contact the building management office at extension 210.",
+    "— Harbor View Building Management"
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the purpose of the notice?",
+     "opts": [
+      "To announce a new parking fee",
+      "To explain a temporary closure",
+      "To introduce a new tenant",
+      "To advertise office space"
+     ],
+     "ans": 1,
+     "exp": "主旨題：第一句就說停車場 11/16–11/20 關閉。temporary closure（暫時關閉）是 will be closed from ... to ... 的換句話說。A 的 fee 是陷阱，文中其實是說月租戶「不收費」。"
+    },
+    {
+     "n": 14,
+     "stem": "Why will the garage be closed?",
+     "opts": [
+      "Because of a safety inspection",
+      "Because of a lack of parking spaces",
+      "For maintenance and upgrades",
+      "For a special event"
+     ],
+     "ans": 2,
+     "exp": "原因題：so that the floor can be resurfaced and new lighting can be installed（重鋪地面、裝新照明）= maintenance and upgrades。答案沒有出現 resurface、lighting 原字，必須靠換句話說對應，這是你 Day 4 最弱的部分。"
+    },
+    {
+     "n": 15,
+     "stem": "What are monthly permit holders told to do?",
+     "opts": [
+      "Pay at the entrance",
+      "Apply for a new permit",
+      "Present their current permit",
+      "Park behind the building"
+     ],
+     "ans": 2,
+     "exp": "細節題：Simply show your Harbor View permit to the attendant = Present their current permit。show → present 是常見換句話說。A 是訪客才要付錢；D 的 rear of the building 是卸貨區，不是停車。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT stated in the notice?",
+     "opts": [
+      "Where tenants can park",
+      "Who must pay to park",
+      "How long the closure will last",
+      "How many parking spaces are available"
+     ],
+     "ans": 3,
+     "exp": "NOT 題逐一刪去：停哪裡（Lin Street public lot）有提、誰要付錢（Visitors）有提、關多久（11/16–11/20）有提；只有車位數量沒提。做 NOT 題一定要回原文對照每個選項，不要憑印象。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "先抓開頭第一個疑問詞（How long、How often、Who、Why don't we）。Why don't we 是「提議」不是問原因；否定疑問句和選擇疑問句常用間接回答。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "How long will the system update take?",
+     "opts": [
+      "About two hours.",
+      "Every Monday morning.",
+      "It's a new system."
+     ],
+     "ans": 0,
+     "exp": "How long 問「多久」→ About two hours。B 是回答 How often（多常）；C 重複 system。Day 4 你錯了 How often，今天同時練 How long，兩者要分清：long 答時間長度，often 答頻率。",
+     "audio": "d5_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "How often is the equipment inspected?",
+     "opts": [
+      "By a certified technician.",
+      "Once every three months.",
+      "In the storage room."
+     ],
+     "ans": 1,
+     "exp": "How often 問頻率 → Once every three months。A 是回答 Who／By whom；C 是回答 Where。",
+     "audio": "d5_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Isn't the training session in Room 401?",
+     "opts": [
+      "It was moved to the auditorium.",
+      "Yes, it's a long session.",
+      "No, I didn't train today."
+     ],
+     "ans": 0,
+     "exp": "否定疑問句其實是在確認「訓練不是在 401 嗎？」。A 用間接回答「改到禮堂了」，暗示不是 401，最自然。B 用 Yes 但後面內容答非所問；C 是 training／train 字形陷阱。",
+     "audio": "d5_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Who's going to lead the client presentation?",
+     "opts": [
+      "I haven't been told yet.",
+      "At the main office.",
+      "It was very impressive."
+     ],
+     "ans": 0,
+     "exp": "Who 問人，但答案用「我還沒被告知」這種「不知道型」間接回答，在 TOEIC 很常是正解。B 答地點，C 答感想。",
+     "audio": "d5_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Why don't we take a short break?",
+     "opts": [
+      "Because it broke.",
+      "That's a good idea.",
+      "It was a short meeting."
+     ],
+     "ans": 1,
+     "exp": "Why don't we ...? 不是問原因，而是「提議」（我們要不要……），回應用 That's a good idea。A 用 Because 回答是陷阱，而且 broke／break 字形相近；C 重複 short。",
+     "audio": "d5_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Did you send the invoice to Mr. Park, or should I?",
+     "opts": [
+      "Please go ahead.",
+      "It's an expensive invoice.",
+      "Yes, he parked there."
+     ],
+     "ans": 0,
+     "exp": "選擇疑問句（A or B），Please go ahead（請你去寄）表示選了後者。B 重複 invoice；C 用 Yes 回答選擇疑問句，而且 Park／parked 是同音陷阱。",
+     "audio": "d5_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 3 簡短對話（建議 4 分鐘）",
+   "tip": "播放前先讀三題題目。主旨題要選「能涵蓋整段對話」的選項，小心像 damaged、defect 這種對話裡沒說過的負面字。",
+   "audio": "d5_S.mp3",
+   "script": [
+    "W: Hello, this is Mei-Ling Wu from Sunrise Office Supply. I'm calling about the order of printer cartridges your company placed last week.",
+    "M: Oh, yes. We were expecting them yesterday. Is there a problem?",
+    "W: I'm afraid one of the items is temporarily out of stock at our warehouse. We can ship the rest of the order today, and the remaining cartridges by Thursday.",
+    "M: That's fine, as long as we get the black ink cartridges today. We're almost out.",
+    "W: Those are in stock, so they'll go out this afternoon. I'll e-mail you the tracking number as soon as the package leaves."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "Why is the woman calling?",
+     "opts": [
+      "To report a damaged product",
+      "To explain a delay with part of an order",
+      "To offer a discount",
+      "To confirm a new address"
+     ],
+     "ans": 1,
+     "exp": "主旨題：先說來電目的（關於上週的訂單），接著說其中一項缺貨，剩下的週四才寄 = 部分訂單延遲。A 的 damaged（損壞）是陷阱，和 Day 4 的 defect 一樣，對話根本沒提到產品壞掉。主旨題要選能涵蓋整段對話的選項。"
+    },
+    {
+     "n": 24,
+     "stem": "What does the man say he needs today?",
+     "opts": [
+      "Paper",
+      "Black ink cartridges",
+      "A tracking number",
+      "A refund"
+     ],
+     "ans": 1,
+     "exp": "細節題：as long as we get the black ink cartridges today. We're almost out. A 沒提到；C 的 tracking number 是女子之後要寄的，不是男子說今天需要的東西。"
+    },
+    {
+     "n": 25,
+     "stem": "What will the woman most likely do next?",
+     "opts": [
+      "Visit the man's office",
+      "Cancel the order",
+      "Send an e-mail",
+      "Call the warehouse"
+     ],
+     "ans": 2,
+     "exp": "下一步題看最後一句：I'll e-mail you the tracking number = Send an e-mail。"
+    }
+   ]
+  }
+ ]
+}
