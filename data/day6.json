@@ -1,0 +1,351 @@
+{
+ "day": 6,
+ "date": "2026-11-03",
+ "title": "TOEIC 每日練習 Day 6（2026-11-03）",
+ "summary": "Day 5 拿到 10/25，而且 Day 4 錯過的題型又錯了，代表規則還沒內化。今天把難度降回 Day 2–3，每個弱點規則連出 2–3 題，詳解都寫成「判斷步驟」。請照步驟做，不要憑感覺選。做完按「交卷」就會自動回傳成績。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "今天四個規則各練 2–3 題：(1) whose + 名詞；(2) 空格後有動詞用連接詞（because、although、while），只有名詞用介系詞（because of、despite、during）；(3) 假設語氣 If 過去式 → would + 原形、If had p.p. → would have p.p.；(4) keep／make／find + 受詞 + 形容詞。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "Mr. Lin is the manager ------- team won the sales award this year.",
+     "opts": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看空格後面：team 是名詞，而且後面沒有冠詞。2. 問自己「是經理『的』團隊嗎？」是。3. 空格後直接接名詞＋有「的」關係，就選 whose。who／whom 後面要接動詞或主詞＋動詞，不會直接接名詞。"
+    },
+    {
+     "n": 2,
+     "stem": "We contacted the customer ------- order was sent to the wrong address.",
+     "opts": [
+      "who",
+      "whose",
+      "what",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後是名詞 order。2. 是「顧客『的』訂單」。3. 選 whose。對照：the customer who called us（who 後面接動詞 called）。只要記住：whose + 名詞，who + 動詞。"
+    },
+    {
+     "n": 3,
+     "stem": "The meeting was canceled ------- the manager was sick.",
+     "opts": [
+      "because",
+      "because of",
+      "due to",
+      "despite"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 看空格後面有沒有動詞：the manager was sick，有動詞 was。2. 有動詞＝子句，要用連接詞。3. 選項裡只有 because 是連接詞。because of、due to、despite 都是介系詞，後面只能接名詞，例如 because of the manager's illness。"
+    },
+    {
+     "n": 4,
+     "stem": "------- the bad weather, the delivery arrived on time.",
+     "opts": [
+      "Although",
+      "Despite",
+      "Because",
+      "While"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the bad weather 沒有動詞，只是名詞片語。2. 沒動詞＝要用介系詞。3. 意思是「儘管天氣不好，還是準時到」，選 Despite。Although 意思一樣，但它是連接詞，要接 Although the weather was bad。"
+    },
+    {
+     "n": 5,
+     "stem": "Please do not use your phone ------- the presentation.",
+     "opts": [
+      "while",
+      "during",
+      "when",
+      "although"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the presentation 是名詞，沒有動詞。2. 選介系詞 during。3. 對照：while you are presenting（while 後面有主詞＋動詞）。during＋名詞、while＋子句，這組你連錯兩天，今天務必記住。"
+    },
+    {
+     "n": 6,
+     "stem": "If I ------- more time, I would join the company's soccer team.",
+     "opts": [
+      "have",
+      "had",
+      "will have",
+      "would have"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 主要子句是 would + 原形（would join）。2. 這代表「與現在事實相反」：現在其實沒時間。3. If 子句用過去式 had。公式：If + 過去式, would + 原形。"
+    },
+    {
+     "n": 7,
+     "stem": "If she ------- the manager, she would change the schedule.",
+     "opts": [
+      "is",
+      "be",
+      "were",
+      "has been"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 主要子句 would change ＝ 與現在事實相反。2. If 子句用過去式，而 be 動詞在假設語氣一律用 were（不管主詞是 I、she 還是 he）。3. 選 were。這和 Day 5 的 If I were you 是同一個規則。"
+    },
+    {
+     "n": 8,
+     "stem": "If we had left earlier, we ------- the train.",
+     "opts": [
+      "would catch",
+      "will catch",
+      "would have caught",
+      "had caught"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. If 子句是 had left（had + p.p.）＝ 與「過去」事實相反，其實我們沒有早出門。2. 主要子句要對應 would have + p.p.。3. 選 would have caught。口訣：If had p.p.，主句 would have p.p.，兩邊都有 have。"
+    },
+    {
+     "n": 9,
+     "stem": "Please keep the door ------- during the meeting.",
+     "opts": [
+      "close",
+      "closed",
+      "closing",
+      "closely"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看到 keep + 受詞（the door）+ 空格。2. 空格是在描述門的「狀態」，要用形容詞（或當形容詞的 p.p.）。3. 門是「被關著的」，選 closed。closely 是副詞（密切地），不能描述名詞的狀態。"
+    },
+    {
+     "n": 10,
+     "stem": "The new software makes our work much -------.",
+     "opts": [
+      "easy",
+      "easier",
+      "easily",
+      "ease"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看到 make + 受詞（our work）+ 空格，空格要形容詞。2. 前面有 much，much 可以修飾比較級。3. 選 easier。easily 是副詞，Day 4、Day 5 你都選到副詞，記得：受詞後面描述狀態用形容詞，不用副詞。"
+    },
+    {
+     "n": 11,
+     "stem": "Many customers find the online store very -------.",
+     "opts": [
+      "help",
+      "helpful",
+      "helpfully",
+      "helped"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. find + 受詞（the online store）+ 空格 ＝「覺得某物……」。2. 前面有 very，後面要形容詞。3. 選 helpful。keep／make／find + 受詞 + 形容詞，今天三題都是同一個規則。"
+    },
+    {
+     "n": 12,
+     "stem": "All visitors must ------- with the factory's safety rules.",
+     "opts": [
+      "follow",
+      "obey",
+      "comply",
+      "respect"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 看空格「後面」的介系詞：with。2. 哪個動詞固定搭 with？comply with（遵守）。3. follow、obey、respect 意思也接近，但都直接接受詞，不加 with。字彙題先看空格後的小字（with、to、for），常常就是答案提示。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "每題先圈出題目的關鍵字（why、laptops、NOT），回原文找到那一句，再找「意思一樣但字不一樣」的選項。NOT 題四個選項都要回原文打勾。",
+   "passage": [
+    "Greenfield Public Library — Notice",
+    "",
+    "The library's second-floor study room will be closed from December 1 to December 5 because new desks and chairs are being installed. During this time, visitors may use the reading area on the first floor.",
+    "Library members can still borrow laptops at the front desk, but laptops must be returned by 6:00 P.M. on the same day. Printing services will not be available on December 3.",
+    "We thank you for your patience. If you have any questions, please call 555-0182."
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the notice mainly about?",
+     "opts": [
+      "A new library opening",
+      "A temporary room closure",
+      "A change in membership fees",
+      "A computer class"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 主旨題看第一句：study room will be closed from December 1 to December 5。2. closed from…to… ＝ 只關幾天 ＝ temporary closure（暫時關閉）。3. 選 B。C 的 fees 文中沒提到。"
+    },
+    {
+     "n": 14,
+     "stem": "Why will the study room be closed?",
+     "opts": [
+      "It will be cleaned.",
+      "New furniture will be put in.",
+      "There is a special event.",
+      "It is too small."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找原因的字：because new desks and chairs are being installed。2. desks and chairs（桌椅）換句話說 ＝ furniture（家具）；installed ＝ put in。3. 選 B。答案不會照抄原文，要找「意思一樣」的選項。"
+    },
+    {
+     "n": 15,
+     "stem": "What is said about laptops?",
+     "opts": [
+      "They must be returned the same day.",
+      "They are only for staff.",
+      "They cost money to borrow.",
+      "They are on the second floor."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 回原文找 laptops：must be returned by 6:00 P.M. on the same day。2. 對照選項 A：returned the same day，意思完全一樣。3. 選 A。D 的 second floor 是關閉的自修室，不是借筆電的地方（front desk）。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT mentioned in the notice?",
+     "opts": [
+      "Where visitors can study",
+      "When printing is unavailable",
+      "A phone number for questions",
+      "The library's opening hours"
+     ],
+     "ans": 3,
+     "exp": "判斷步驟：NOT 題要四個選項都回原文打勾。A：reading area on the first floor，有。B：December 3 不能列印，有。C：555-0182，有。D：開館時間，沒提（6:00 P.M. 是還筆電的時間，不是開館時間，這是陷阱）。選 D。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "否定疑問句（Isn't／Didn't）當成一般疑問句來答；Why don't we 是提議，刪掉 Because；聽到 or 就刪掉 Yes／No 開頭的選項。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Isn't the report due today?",
+     "opts": [
+      "No, it's due on Friday.",
+      "Yes, I read it.",
+      "The reporter is here."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 否定疑問句 Isn't…? 其實就是「報告不是今天要交嗎？」＝ Is the report due today?。2. 直接用 Yes／No 回答「是不是今天」：No, it's due on Friday。3. C 是 report／reporter 字形陷阱；B 的 Yes 後面答非所問。",
+     "audio": "d6_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Didn't Ms. Kim call the client yesterday?",
+     "opts": [
+      "Yes, she spoke with him in the morning.",
+      "No, the call button.",
+      "She's a new client."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Didn't Ms. Kim call…? ＝ Did Ms. Kim call…?（她有沒有打？）。2. A 回答「有，早上跟他講過了」，完全對應。3. B、C 都在重複 call、client 這兩個字，聽到重複字的選項要先懷疑。",
+     "audio": "d6_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Why don't we order lunch for the meeting?",
+     "opts": [
+      "Because I was busy.",
+      "Sure, I'll call the restaurant.",
+      "At twelve o'clock."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. Why don't we…? 是「我們要不要……？」的提議，不是問原因。2. 回應提議用同意或拒絕：Sure, I'll call the restaurant。3. A 用 Because 回答是最常見的陷阱，聽到 Why don't we 就把 Because 刪掉。",
+     "audio": "d6_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Would you like tea or coffee?",
+     "opts": [
+      "Coffee, please.",
+      "Yes, I would.",
+      "At the café."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 聽到 A or B ＝ 選擇疑問句。2. 選擇疑問句不能用 Yes／No 回答，要選其中一個（或都不要）。3. 選 Coffee, please。B 用 Yes 回答是陷阱。",
+     "audio": "d6_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Should we meet in your office or in the conference room?",
+     "opts": [
+      "Yes, that's right.",
+      "The conference room is better.",
+      "It was a long meeting."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 有 or ＝ 選擇疑問句。2. 先刪 Yes 開頭的 A。3. B 選了其中一個地點，正確。C 重複 meeting 是陷阱。",
+     "audio": "d6_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "How long does it take to get to the airport?",
+     "opts": [
+      "About forty minutes.",
+      "Twice a week.",
+      "By taxi."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. How long 問「多久（時間長度）」。2. About forty minutes 是時間長度。3. B 是回答 How often（頻率）；C 是回答 How（怎麼去）。",
+     "audio": "d6_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 3 簡短對話（建議 4 分鐘）",
+   "tip": "播放前先讀三題題目，圈出 problem、today、Friday 這些關鍵字，聽到時立刻作答。對話沒說過的負面字（damaged、broken）一律刪。",
+   "audio": "d6_S.mp3",
+   "script": [
+    "M: Hi, I'm calling about the desk lamp I bought from your online store last week.",
+    "W: Of course. What seems to be the problem?",
+    "M: I ordered a white one, but you sent me a black one. Can I exchange it?",
+    "W: I'm sorry about that. I'll send you a white lamp today, and a delivery driver will pick up the black one on Friday.",
+    "M: Great, thank you. I'll leave it at the front door."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "What is the problem?",
+     "opts": [
+      "The lamp is damaged.",
+      "The wrong color was sent.",
+      "The lamp is too expensive.",
+      "The order was not delivered."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 問題題要找男子抱怨的那句：I ordered a white one, but you sent me a black one。2. 訂白色、送來黑色 ＝ the wrong color（顏色寄錯）。3. 選 B。A 的 damaged（損壞）又是陷阱，對話完全沒說燈壞了，這種陷阱你已經錯過兩次，聽到沒說過的負面字就刪。"
+    },
+    {
+     "n": 24,
+     "stem": "What will the woman do today?",
+     "opts": [
+      "Give a refund",
+      "Send a new lamp",
+      "Visit the man's house",
+      "Call a driver"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 today：I'll send you a white lamp today。2. 對應選項 B：Send a new lamp。3. C、D 是陷阱：來取件的是司機，而且是週五，不是今天。"
+    },
+    {
+     "n": 25,
+     "stem": "What will happen on Friday?",
+     "opts": [
+      "The man will go to the store.",
+      "A lamp will be picked up.",
+      "The store will close.",
+      "The man will pay a fee."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 Friday：a delivery driver will pick up the black one on Friday。2. pick up the black one ＝ A lamp will be picked up（換成被動語態）。3. 選 B。"
+    }
+   ]
+  }
+ ]
+}
