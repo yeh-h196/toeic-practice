@@ -1,0 +1,353 @@
+{
+ "day": 7,
+ "date": "2026-11-04",
+ "title": "TOEIC 每日練習 Day 7（2026-11-04）",
+ "summary": "Day 6 拿到 12/25，閱讀進步到 3/4，但文法同樣的規則還在錯。今天改成專項訓練：Part 5 有 7 題只練「連接詞或介系詞」，而且兩兩成對（同一句意思，只差後面有沒有動詞），再加 3 題 whose／who 對照。每題作答前先用筆圈出空格後面那幾個字，問自己「有沒有動詞？」，再選。做完按「交卷」就會自動回傳成績。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "今天的唯一口訣：空格後面有主詞＋動詞 → 連接詞（because、although、even though、while）；只有名詞 → 介系詞（because of、despite、in spite of、during）。whose 後面接名詞，who 後面接動詞。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "The event was postponed ------- the heavy rain.",
+     "opts": [
+      "because",
+      "because of",
+      "although",
+      "while"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 先圈空格後面：the heavy rain。2. 問自己「這裡有動詞嗎？」沒有，只是名詞片語。3. 沒動詞＝介系詞，選 because of。because 是連接詞，要接 because it rained heavily（有動詞 rained）。"
+    },
+    {
+     "n": 2,
+     "stem": "The event was postponed ------- it rained heavily.",
+     "opts": [
+      "because",
+      "because of",
+      "due to",
+      "despite"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 空格後面：it rained heavily。2. 有主詞 it＋動詞 rained ＝ 子句。3. 子句前面用連接詞，選 because。和上一題比一比：意思一樣，只差在後面有沒有動詞。"
+    },
+    {
+     "n": 3,
+     "stem": "------- the high price, the new phone sold out in one day.",
+     "opts": [
+      "Although",
+      "Despite",
+      "Because",
+      "Even though"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the high price，沒有動詞。2. 選項裡只有 Despite 是介系詞。3. 選 Despite。Although 和 Even though 意思一樣是「雖然」，但都是連接詞，後面一定要有動詞，例如 Although the price was high。"
+    },
+    {
+     "n": 4,
+     "stem": "------- the price was high, the new phone sold out in one day.",
+     "opts": [
+      "Despite",
+      "In spite of",
+      "Although",
+      "Because of"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 空格後 the price was high，有動詞 was。2. 有動詞＝連接詞。3. Despite、In spite of、Because of 全是介系詞，刪掉，選 Although。"
+    },
+    {
+     "n": 5,
+     "stem": "Ms. Chen answered several e-mails ------- her lunch break.",
+     "opts": [
+      "while",
+      "during",
+      "when",
+      "as soon as"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 her lunch break，沒有動詞。2. 四個選項只有 during 是介系詞。3. 選 during。while、when、as soon as 都是連接詞，後面要接主詞＋動詞。"
+    },
+    {
+     "n": 6,
+     "stem": "Ms. Chen answered several e-mails ------- she was having lunch.",
+     "opts": [
+      "during",
+      "while",
+      "in",
+      "for"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 she was having lunch，有主詞＋動詞。2. 要連接詞。3. 選 while。during、in、for 都是介系詞。這題和上一題是同一對，今天把 during／while 一次搞定。"
+    },
+    {
+     "n": 7,
+     "stem": "The store stayed open ------- the power outage.",
+     "opts": [
+      "although",
+      "despite",
+      "even though",
+      "though"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the power outage（停電），名詞，沒有動詞。2. 刪掉所有連接詞：although、even though、though。3. 剩下介系詞 despite。"
+    },
+    {
+     "n": 8,
+     "stem": "The factory hired a new manager ------- experience in robotics is impressive.",
+     "opts": [
+      "who",
+      "whose",
+      "whom",
+      "which"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後直接是名詞 experience，前面沒有 the／his。2. 是「經理『的』經驗」。3. 名詞前缺「的」就選 whose。who 後面要接動詞，例如 who has experience。"
+    },
+    {
+     "n": 9,
+     "stem": "The factory hired a new manager ------- has experience in robotics.",
+     "opts": [
+      "whose",
+      "who",
+      "whom",
+      "what"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後是動詞 has。2. 缺的是主詞（誰有經驗？經理）。3. 後面接動詞就選 who。和上一題對照：whose + 名詞、who + 動詞。"
+    },
+    {
+     "n": 10,
+     "stem": "Applicants ------- forms are incomplete will be contacted by e-mail.",
+     "opts": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後是名詞 forms，再接動詞 are。2. 是「申請人『的』表格」不完整。3. 選 whose。看到「空格＋名詞＋動詞」，幾乎都是 whose。"
+    },
+    {
+     "n": 11,
+     "stem": "All employees must comply ------- the new security policy.",
+     "opts": [
+      "to",
+      "for",
+      "with",
+      "at"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. comply 固定搭配 with，comply with ＝ 遵守。2. 選 with。這個搭配你已經連錯三天，請大聲念三次：comply with the rules。"
+    },
+    {
+     "n": 12,
+     "stem": "Please keep your personal information ------- at all times.",
+     "opts": [
+      "safe",
+      "safely",
+      "safety",
+      "save"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. keep + 受詞（your personal information）+ 空格。2. 空格描述資料的「狀態」，用形容詞。3. 選 safe。safely 是副詞，不能放在受詞後描述狀態。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "先讀題目、圈關鍵字（2:00 P.M.、left、NOT），再回原文找那一句。NOT 題四個選項都要回原文打勾，沒找到的那個就是答案。",
+   "passage": [
+    "To: All Staff",
+    "From: Office Manager",
+    "Subject: Kitchen Cleaning",
+    "",
+    "Starting next Monday, the office kitchen will be cleaned every Friday afternoon. Please remove all of your food and drinks from the refrigerator by 2:00 P.M. on Fridays. Any items left after that time will be thrown away.",
+    "New coffee cups have also been placed in the cabinet above the sink. Please wash your cup after you use it.",
+    "Thank you for helping us keep the kitchen clean."
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the purpose of the e-mail?",
+     "opts": [
+      "To announce a new cleaning schedule",
+      "To introduce a new office manager",
+      "To order new coffee",
+      "To invite staff to a lunch"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 主旨看標題和第一句：Kitchen Cleaning、will be cleaned every Friday afternoon。2. every Friday ＝ 固定時間表 ＝ schedule。3. 選 A。"
+    },
+    {
+     "n": 14,
+     "stem": "What should employees do by 2:00 P.M. on Fridays?",
+     "opts": [
+      "Wash the dishes",
+      "Empty the refrigerator of their items",
+      "Buy new cups",
+      "Clean their desks"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 2:00 P.M.：remove all of your food and drinks from the refrigerator。2. remove your food and drinks ＝ 換句話說 empty the refrigerator of their items。3. 選 B。A 的 wash 是後面講杯子的，不是 2 點前要做的事。"
+    },
+    {
+     "n": 15,
+     "stem": "What will happen to items left in the refrigerator?",
+     "opts": [
+      "They will be returned.",
+      "They will be thrown away.",
+      "They will be moved to the cabinet.",
+      "They will be sold."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 left after that time：will be thrown away。2. 這題原文和選項一樣，直接選 B。C 的 cabinet 是放杯子的地方，是陷阱。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT mentioned in the e-mail?",
+     "opts": [
+      "When the kitchen will be cleaned",
+      "Where the new cups are",
+      "What to do after using a cup",
+      "Who will clean the kitchen"
+     ],
+     "ans": 3,
+     "exp": "判斷步驟：NOT 題四個選項都回原文打勾。A：every Friday afternoon，有。B：cabinet above the sink，有。C：wash your cup，有。D：誰來打掃？原文只說 will be cleaned（被動），沒說誰，選 D。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "Aren't／Haven't 開頭的否定疑問句，把 not 拿掉再聽一次就懂；Why don't you／we 是建議，刪掉 Because；聽到 or 就刪掉 Yes 開頭的選項。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Aren't you going to the training session tomorrow?",
+     "opts": [
+      "Yes, I signed up last week.",
+      "It was a good train.",
+      "The session room is large."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Aren't you going…? 當成 Are you going…?（你明天要去嗎？）。2. A 說「要，我上週報名了」，對應。3. B 用 train／training 字形陷阱；C 重複 session。",
+     "audio": "d7_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Haven't you finished the budget report yet?",
+     "opts": [
+      "No, I'll finish it this afternoon.",
+      "The budget is too high.",
+      "Yes, it's a big report card."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Haven't you finished…? ＝ Have you finished…?（你做完了沒？）。2. No, I'll finish it this afternoon ＝ 還沒，下午做完，對應。3. B、C 都重複 budget／report，是陷阱。",
+     "audio": "d7_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Why don't you take a break?",
+     "opts": [
+      "Because it's broken.",
+      "That's a good idea, thanks.",
+      "At three o'clock."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. Why don't you…? ＝「你要不要……？」的建議，不是問原因。2. 回應建議要接受或拒絕：That's a good idea。3. 先刪 Because 開頭的 A（break／broken 也是字形陷阱）。",
+     "audio": "d7_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Why don't we ask Mr. Park for help?",
+     "opts": [
+      "He's on vacation this week.",
+      "Because he helped me.",
+      "Yes, it's a park."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Why don't we…? 是提議。2. A 用間接方式拒絕：他這週休假（所以問不到）。3. B 用 Because 是陷阱；C 把人名 Park 當成公園。間接回答也是正確答案，要習慣。",
+     "audio": "d7_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Do you want to pay by cash or credit card?",
+     "opts": [
+      "Yes, I do.",
+      "Credit card, please.",
+      "It costs fifty dollars."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 聽到 or ＝ 選擇疑問句。2. 刪掉 Yes 開頭的 A。3. 選 Credit card, please，選其中一個。",
+     "audio": "d7_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Is the meeting on Tuesday or Wednesday?",
+     "opts": [
+      "Yes, it's important.",
+      "It was moved to Thursday.",
+      "In room 5."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 有 or ＝ 選擇疑問句，先刪 Yes。2. B 說「改到週四了」，兩個都不是，也是合理回答。3. C 回答地點，不是時間。",
+     "audio": "d7_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 4 電話留言（建議 4 分鐘）",
+   "tip": "播放前先讀三題，圈出 why、changed、Dr. Wilson。聽到 Unfortunately、but 這類轉折字時特別注意，後面通常就是答案。",
+   "audio": "d7_S.mp3",
+   "script": [
+    "Hello, this is Karen from Bright Dental Clinic, calling for Mr. David Lee.",
+    "I'm calling to remind you about your appointment tomorrow at ten A.M.",
+    "Unfortunately, Dr. Wilson is sick, so another dentist, Dr. Brown, will see you instead.",
+    "If you would prefer to wait for Dr. Wilson, please call us back at 555-0147 before five o'clock today.",
+    "Thank you."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "Why is the woman calling?",
+     "opts": [
+      "To cancel an appointment",
+      "To remind the listener of an appointment",
+      "To ask for a payment",
+      "To offer a job"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 目的題聽開頭：I'm calling to remind you about your appointment。2. 選 B。A 是陷阱：預約沒有取消，只是換醫生。"
+    },
+    {
+     "n": 24,
+     "stem": "What has changed?",
+     "opts": [
+      "The time of the appointment",
+      "The location of the clinic",
+      "The dentist",
+      "The phone number"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 找轉折字 Unfortunately：Dr. Wilson is sick, so another dentist, Dr. Brown, will see you。2. 換的是牙醫。3. 選 C。時間還是明天十點，沒變。"
+    },
+    {
+     "n": 25,
+     "stem": "What should the listener do if he wants to see Dr. Wilson?",
+     "opts": [
+      "Come at five o'clock",
+      "Call back today",
+      "Send an e-mail",
+      "Visit tomorrow afternoon"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 If you would prefer to wait for Dr. Wilson：please call us back… before five o'clock today。2. 選 B。A 的 five o'clock 是陷阱：五點是回電截止時間，不是要來診所。"
+    }
+   ]
+  }
+ ]
+}
