@@ -1,0 +1,351 @@
+{
+ "day": 8,
+ "date": "2026-11-05",
+ "title": "TOEIC 每日練習 Day 8（2026-11-05）",
+ "summary": "今天的專項是假設語氣：Part 5 前 5 題只練「看主要子句決定 if 子句時態」，後面 7 題複習連接詞與介系詞、whose／who、find + 受詞 + 形容詞、comply with。聽力換成 Part 3 兩人對話。做完按「交卷」就會自動回傳成績，昨天的 Day 7 還沒交卷的話也請一起做完交卷。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "假設語氣只看一件事：主要子句。will + 原形 → if 用現在式；would + 原形 → if 用過去式（be 動詞用 were）；would have + p.p. → if 用 had + p.p.。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "If I ------- you, I would ask the manager for help.",
+     "opts": [
+      "am",
+      "was",
+      "were",
+      "be"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 看主要子句：I would ask ＝ would + 原形 → 和現在事實相反（我不是你）。2. 與現在相反的 if 子句用過去式，be 動詞一律用 were。3. 選 were。口訣：If I were you, I would…，整句背起來。"
+    },
+    {
+     "n": 2,
+     "stem": "If we had more time, we ------- visit the museum.",
+     "opts": [
+      "will",
+      "would",
+      "have",
+      "had"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. if 子句是 had（過去式）→ 與現在事實相反（其實沒時間）。2. 主要子句用 would + 原形。3. 選 would。will 是「真的有可能」的條件句，要配 If we have more time。"
+    },
+    {
+     "n": 3,
+     "stem": "If the bus ------- on time yesterday, we would have arrived before the meeting.",
+     "opts": [
+      "comes",
+      "came",
+      "had come",
+      "has come"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 看到 yesterday 和 would have arrived ＝ 過去沒發生的事。2. 與過去相反的 if 子句用 had + p.p.。3. 選 had come。對照公式：If + had + p.p., would have + p.p.。"
+    },
+    {
+     "n": 4,
+     "stem": "If Ms. Lin had checked the e-mail, she ------- the mistake.",
+     "opts": [
+      "would notice",
+      "will notice",
+      "would have noticed",
+      "notices"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. if 子句是 had checked（had + p.p.）→ 與過去相反。2. 主要子句一定是 would have + p.p.。3. 選 would have noticed。兩邊要成對：had + p.p. 配 would have + p.p.。"
+    },
+    {
+     "n": 5,
+     "stem": "If it ------- tomorrow, the outdoor concert will be canceled.",
+     "opts": [
+      "rains",
+      "rained",
+      "had rained",
+      "would rain"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 主要子句是 will be canceled（will）→ 不是假設，是真的可能發生。2. 一般條件句：if 子句用現在式，就算講的是 tomorrow 也一樣。3. 選 rains。看主要子句：will → 現在式；would → 過去式；would have → had + p.p.。"
+    },
+    {
+     "n": 6,
+     "stem": "The flight was delayed ------- a technical problem.",
+     "opts": [
+      "because",
+      "because of",
+      "although",
+      "while"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 a technical problem，沒有動詞。2. 沒動詞＝介系詞。3. 選 because of。複習昨天的口訣：有動詞用連接詞，只有名詞用介系詞。"
+    },
+    {
+     "n": 7,
+     "stem": "------- the weather was cold, many people came to the festival.",
+     "opts": [
+      "Despite",
+      "Although",
+      "During",
+      "Because of"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the weather was cold，有動詞 was。2. 刪掉介系詞 Despite、During、Because of。3. 選 Although。"
+    },
+    {
+     "n": 8,
+     "stem": "Please do not use your phone ------- the presentation.",
+     "opts": [
+      "while",
+      "during",
+      "although",
+      "when"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the presentation，只有名詞。2. 選項中只有 during 是介系詞。3. 選 during。"
+    },
+    {
+     "n": 9,
+     "stem": "We need an assistant ------- English skills are excellent.",
+     "opts": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後直接接名詞 English skills，再接動詞 are。2. 「助理『的』英文能力」。3. 選 whose。"
+    },
+    {
+     "n": 10,
+     "stem": "The company is looking for a designer ------- can start next month.",
+     "opts": [
+      "whose",
+      "who",
+      "which",
+      "what"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後直接接動詞 can start。2. 缺主詞，先行詞是人（designer）。3. 選 who。"
+    },
+    {
+     "n": 11,
+     "stem": "Many customers found the new menu ------- to read.",
+     "opts": [
+      "easy",
+      "easily",
+      "ease",
+      "easiness"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. find + 受詞（the new menu）+ 空格。2. 空格描述菜單的狀態（容易讀），用形容詞。3. 選 easy。和 keep your information safe 是同一個句型。"
+    },
+    {
+     "n": 12,
+     "stem": "Visitors must comply ------- all safety rules in the factory.",
+     "opts": [
+      "to",
+      "with",
+      "for",
+      "by"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：comply with ＝ 遵守，固定搭配。選 with。今天第四天出現，答對了就代表記住了。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "先讀題目、圈關鍵字（How long、front desk、NOT），再回原文找那一句。數日期時要看清楚起訖日。",
+   "passage": [
+    "NOTICE: Elevator Maintenance",
+    "",
+    "The elevator in the East Building will be closed for maintenance from Monday, November 9, to Wednesday, November 11.",
+    "During this time, please use the stairs or the elevator in the West Building. Staff who need help moving heavy items should contact the front desk at extension 210.",
+    "We are sorry for any inconvenience. The elevator will open again on Thursday morning."
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the notice mainly about?",
+     "opts": [
+      "A new building",
+      "A temporary elevator closure",
+      "A change in office hours",
+      "A moving company"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看標題 Elevator Maintenance 和第一句 will be closed for maintenance。2. 關三天 ＝ temporary（暫時的）closure。3. 選 B。"
+    },
+    {
+     "n": 14,
+     "stem": "How long will the elevator be closed?",
+     "opts": [
+      "One day",
+      "Two days",
+      "Three days",
+      "One week"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 找日期：November 9 到 November 11。2. 9、10、11 三天。3. 選 C。注意 Thursday morning 已經重新開放，不算在內。"
+    },
+    {
+     "n": 15,
+     "stem": "Why would staff contact the front desk?",
+     "opts": [
+      "To report a broken elevator",
+      "To get help carrying heavy items",
+      "To book a meeting room",
+      "To ask about parking"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 front desk：Staff who need help moving heavy items should contact the front desk。2. moving heavy items 換句話說成 carrying heavy items。3. 選 B。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT mentioned in the notice?",
+     "opts": [
+      "Another elevator staff can use",
+      "When the elevator will reopen",
+      "The front desk phone extension",
+      "The cost of the maintenance"
+     ],
+     "ans": 3,
+     "exp": "判斷步驟：NOT 題逐一回原文打勾。A：the elevator in the West Building，有。B：Thursday morning，有。C：extension 210，有。D：費用完全沒提，選 D。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "Didn't／Isn't 開頭的否定疑問句，把 not 拿掉再理解；Why don't you／we 是建議，刪掉 Because；聽到 or 就刪掉 Yes 開頭的選項。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Didn't you send the invoice yesterday?",
+     "opts": [
+      "Yes, I sent it in the morning.",
+      "It's a large voice.",
+      "Send me a postcard."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 把 not 拿掉：Did you send the invoice yesterday?（你昨天寄了嗎？）。2. A「有，早上寄了」，對應。3. B 是 invoice／voice 字音陷阱；C 重複 send。",
+     "audio": "d8_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Isn't the cafeteria open today?",
+     "opts": [
+      "No, it's closed for cleaning.",
+      "I like the open window.",
+      "At the cafe downstairs."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 當成 Is the cafeteria open today?。2. A「沒開，在清潔」，對應。3. B 重複 open；C 用 cafe／cafeteria 字形陷阱。",
+     "audio": "d8_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Why don't we order lunch from the new restaurant?",
+     "opts": [
+      "Because it was new.",
+      "Sure, I'll get the menu.",
+      "At twelve thirty."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. Why don't we…? ＝ 提議「我們要不要……」。2. 回應提議：Sure, I'll get the menu。3. 先刪 Because 開頭的 A。",
+     "audio": "d8_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Why don't you call the client first?",
+     "opts": [
+      "OK, I'll do that now.",
+      "Because the client called.",
+      "He's a good client."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Why don't you…? 是建議。2. OK, I'll do that now ＝ 接受建議。3. B 有 Because，刪；C 重複 client，刪。",
+     "audio": "d8_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Should we meet in your office or mine?",
+     "opts": [
+      "Yes, we should.",
+      "Mine is bigger.",
+      "At two o'clock."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 聽到 or ＝ 選擇疑問句，先刪 Yes 開頭的 A。2. Mine is bigger ＝ 選「我的辦公室」（間接選擇）。3. C 回答時間，不是地點。",
+     "audio": "d8_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Would you like tea or coffee?",
+     "opts": [
+      "Yes, please.",
+      "Neither, thanks. Just water.",
+      "In the kitchen."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 有 or，先刪 Yes。2. Neither ＝ 兩個都不要，也是正確的回答方式。3. C 回答地點，不對。",
+     "audio": "d8_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 3 兩人對話（建議 4 分鐘）",
+   "tip": "播放前先讀三題，圈出 problem、caused、man do。女生說問題，男生說原因和解決方法，聽到 I'll 就是「他會做什麼」的答案。",
+   "audio": "d8_S.mp3",
+   "script": [
+    "W: Hi, I ordered a printer from your online store last week, but it still hasn't arrived.",
+    "M: I'm sorry about that. Can I have your order number, please?",
+    "W: Sure. It's 4-5-8-2.",
+    "M: Thank you. It looks like the printer was sent to your old address. I'll send a new one today by express delivery, at no extra cost.",
+    "W: Great, thank you."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "What is the woman's problem?",
+     "opts": [
+      "She received the wrong printer.",
+      "Her order has not arrived.",
+      "The printer is broken.",
+      "She was charged twice."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 問題題聽女生第一句：it still hasn't arrived。2. hasn't arrived ＝ 選項 has not arrived。3. 選 B。C 是常見誘答：對話沒說壞掉。"
+    },
+    {
+     "n": 24,
+     "stem": "What caused the problem?",
+     "opts": [
+      "The store was closed.",
+      "The printer was out of stock.",
+      "The item was sent to an old address.",
+      "The order number was wrong."
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 聽男生查詢後的話：was sent to your old address。2. 選 C。D 是陷阱：她有給訂單號碼，但號碼沒問題。"
+    },
+    {
+     "n": 25,
+     "stem": "What will the man do?",
+     "opts": [
+      "Give a refund",
+      "Send a new printer",
+      "Call the delivery company",
+      "Change the order number"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 「男生會做什麼」聽 I'll…：I'll send a new one today。2. a new one ＝ a new printer。3. 選 B。at no extra cost 是不加錢，不是退款，A 是陷阱。"
+    }
+   ]
+  }
+ ]
+}
