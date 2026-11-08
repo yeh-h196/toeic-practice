@@ -1,0 +1,351 @@
+{
+ "day": 11,
+ "date": "2026-11-08",
+ "title": "TOEIC 每日練習 Day 11（2026-11-08）",
+ "summary": "今天繼續練最常錯的五個規則：連接詞與介系詞、假設語氣（先看主要子句）、keep／find／make + 受詞 + 形容詞、whose／who、comply with，換成全新的句子。聽力是 Part 2 加一段 Part 3 訂單缺貨電話。做完按「交卷」就會自動回傳成績；Day 7–10 還沒交卷，有空請至少補交一份，才能看出這幾天的專項有沒有效果。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "先看空格後面：有主詞＋動詞選連接詞，只有名詞選介系詞；假設語氣先看主要子句（would＝現在相反、would have＝過去相反、沒有 would＝現在式）；keep／find／make + 受詞後面選形容詞；whose + 名詞、who + 動詞。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "The outdoor concert was canceled ------- the strong wind.",
+     "opts": [
+      "because",
+      "because of",
+      "although",
+      "when"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the strong wind，是名詞片語，沒有動詞。2. 沒動詞＝介系詞。3. 選 because of。because 後面要接「主詞＋動詞」，例如 because the wind was strong。"
+    },
+    {
+     "n": 2,
+     "stem": "------- the heavy rain, the delivery arrived on time.",
+     "opts": [
+      "Although",
+      "Despite",
+      "Because",
+      "While"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the heavy rain，沒有動詞。2. 沒動詞＝介系詞，刪掉 Although、Because、While（都是連接詞）。3. 意思是「儘管下大雨」，選 Despite。"
+    },
+    {
+     "n": 3,
+     "stem": "Mr. Chen answered several e-mails ------- he was waiting for the bus.",
+     "opts": [
+      "during",
+      "while",
+      "despite",
+      "because of"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 he was waiting，有主詞 he 和動詞 was waiting。2. 有動詞＝連接詞，刪掉 during、despite、because of。3. 意思是「在等公車的時候」，選 while。"
+    },
+    {
+     "n": 4,
+     "stem": "If she ------- more time, she would join the volunteer team.",
+     "opts": [
+      "has",
+      "had",
+      "will have",
+      "has had"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 主要子句 would join ＝ 與現在事實相反。2. if 子句用過去式。3. 選 had。公式：If + 過去式, would + 原形。"
+    },
+    {
+     "n": 5,
+     "stem": "If the manager had read the report, she ------- the mistake.",
+     "opts": [
+      "will notice",
+      "would notice",
+      "would have noticed",
+      "notices"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. if 子句 had read ＝ 與過去事實相反。2. 主要子句用 would have + p.p.。3. 選 would have noticed。"
+    },
+    {
+     "n": 6,
+     "stem": "If you ------- any questions, please call our help desk.",
+     "opts": [
+      "have",
+      "had",
+      "would have",
+      "had had"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 主要子句 please call ＝ 真實、一般的情況（祈使句）。2. if 子句用現在式。3. 選 have。主要子句沒有 would，就不是假設語氣。"
+    },
+    {
+     "n": 7,
+     "stem": "The new software makes the ordering process much -------.",
+     "opts": [
+      "simple",
+      "simply",
+      "simplicity",
+      "simplify"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. make + 受詞（the ordering process）+ much + 空格。2. 描述流程的狀態，用形容詞。3. 選 simple。simply 是副詞；simplify 是動詞。"
+    },
+    {
+     "n": 8,
+     "stem": "Please keep the meeting room ------- after you use it.",
+     "opts": [
+      "clean",
+      "cleanly",
+      "cleaning",
+      "cleanness"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. keep + 受詞（the meeting room）+ 空格。2. 描述房間的狀態，用形容詞。3. 選 clean。"
+    },
+    {
+     "n": 9,
+     "stem": "Many customers find the new store hours -------.",
+     "opts": [
+      "convenience",
+      "convenient",
+      "conveniently",
+      "convene"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. find + 受詞（the new store hours）+ 空格。2. 描述營業時間的狀態，用形容詞。3. 選 convenient。-ence 結尾是名詞，-ly 結尾是副詞。"
+    },
+    {
+     "n": 10,
+     "stem": "We contacted the supplier ------- products arrived damaged.",
+     "opts": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後是名詞 products，再接動詞 arrived。2. 「供應商『的』產品」。3. 選 whose。"
+    },
+    {
+     "n": 11,
+     "stem": "We contacted the supplier ------- sent the wrong items.",
+     "opts": [
+      "whose",
+      "who",
+      "whom",
+      "what"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後直接接動詞 sent。2. 缺主詞，先行詞是人（the supplier）。3. 選 who。對照上一題：whose + 名詞、who + 動詞。"
+    },
+    {
+     "n": 12,
+     "stem": "All visitors are required to comply ------- the safety rules in the factory.",
+     "opts": [
+      "by",
+      "with",
+      "to",
+      "on"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：comply with ＝ 遵守，固定搭配，選 with。這是第六次出現；同義說法 follow the rules 也常考。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "先讀題目、圈關鍵字（why、when、NOT），再回原文找那一句。注意 instead of 後面是舊的資訊。",
+   "passage": [
+    "NOTICE: Cafeteria Hours Change",
+    "",
+    "From November 16, the employee cafeteria on the second floor will open at 7:30 A.M. instead of 8:00 A.M., so staff can have breakfast before work.",
+    "Lunch will still be served from 11:30 A.M. to 1:30 P.M. However, the cafeteria will now close at 3:00 P.M. because fewer people use it in the late afternoon.",
+    "Snacks and drinks will remain available all day from the vending machines next to the cafeteria entrance.",
+    "Please send any comments to the General Affairs Department."
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the notice mainly about?",
+     "opts": [
+      "A new cafeteria menu",
+      "Changes to the cafeteria's hours",
+      "The opening of a new cafeteria",
+      "A problem with vending machines"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看標題 Cafeteria Hours Change 和第一句。2. 營業時間改變 ＝ changes to the cafeteria's hours。3. 選 B。"
+    },
+    {
+     "n": 14,
+     "stem": "Why will the cafeteria close earlier?",
+     "opts": [
+      "It needs to be cleaned.",
+      "Fewer people use it in the late afternoon.",
+      "The staff will have a meeting.",
+      "The vending machines will be repaired."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 close 那句：because fewer people use it in the late afternoon。2. 原因題答案就在 because 後面。3. 選 B。"
+    },
+    {
+     "n": 15,
+     "stem": "When can employees start eating breakfast from November 16?",
+     "opts": [
+      "At 7:00 A.M.",
+      "At 7:30 A.M.",
+      "At 8:00 A.M.",
+      "At 11:30 A.M."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 找 open at 7:30 A.M. instead of 8:00 A.M.。2. instead of 後面是「舊的」時間，是陷阱。3. 選 B。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT mentioned in the notice?",
+     "opts": [
+      "Where the vending machines are",
+      "The lunch hours",
+      "Who to send comments to",
+      "The price of breakfast"
+     ],
+     "ans": 3,
+     "exp": "判斷步驟：NOT 題逐一回原文打勾。A：next to the cafeteria entrance，有。B：11:30 to 1:30，有。C：General Affairs Department，有。D：價格沒提，選 D。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "Haven't／Isn't 開頭的否定疑問句，把 not 拿掉再理解；Why don't you／we 是建議，刪掉 Because；聽到 or 就刪掉 Yes 開頭的選項。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Haven't you finished the budget report yet?",
+     "opts": [
+      "No, I need one more day.",
+      "It's a big budget.",
+      "Yes, report it to the police."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 把 not 拿掉：Have you finished the budget report yet?。2. A「還沒，我還需要一天」，對應。3. B 重複 budget；C 重複 report，答非所問。",
+     "audio": "d11_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Isn't the store open on Sundays?",
+     "opts": [
+      "Yes, from ten to six.",
+      "I'll open the window.",
+      "It's a nice store."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 當成 Is the store open on Sundays?。2. A「有，十點到六點」，對應。3. B 重複 open；C 重複 store。",
+     "audio": "d11_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Why don't we ask Maria to lead the project?",
+     "opts": [
+      "Because she was late.",
+      "That's a great idea.",
+      "The project ends in May."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. Why don't we…? ＝ 提議。2. That's a great idea ＝ 接受提議。3. 先刪 Because 開頭的 A；C 用 Maria／May 發音陷阱。",
+     "audio": "d11_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Why don't you call the hotel to check your reservation?",
+     "opts": [
+      "I'll do that now.",
+      "Because it's a hotel.",
+      "Check in is at three."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Why don't you…? ＝ 建議對方。2. I'll do that now ＝ 接受建議。3. B 是 Because 開頭；C 用 check 重複字陷阱。",
+     "audio": "d11_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Should I send the package by mail or by courier?",
+     "opts": [
+      "Yes, you should.",
+      "Courier is faster.",
+      "It's a large package."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 聽到 or ＝ 選擇疑問句，先刪 Yes 開頭的 A。2. Courier is faster ＝ 間接選了快遞。3. C 重複 package。",
+     "audio": "d11_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Do you want to meet in the morning or after lunch?",
+     "opts": [
+      "Yes, let's meet.",
+      "The morning works better for me.",
+      "I had a sandwich."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 有 or，先刪 Yes 開頭的 A。2. The morning works better ＝ 選早上。3. C 用 lunch 聯想到 sandwich，是陷阱。",
+     "audio": "d11_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 3 兩人對話（建議 4 分鐘）",
+   "tip": "播放前先讀三題，圈出 why calling、need soon、request。could you…? 後面就是請求題的答案。",
+   "audio": "d11_S.mp3",
+   "script": [
+    "Man: Hello, this is Kevin from Bright Office Supplies. I'm calling about the order of desk chairs you placed last week.",
+    "Woman: Oh, yes. Is there a problem?",
+    "Man: I'm afraid the black chairs are out of stock. We can send gray ones on Friday, or the black ones will arrive in two weeks.",
+    "Woman: Hmm, we need them for new staff starting Monday. Please send the gray ones, and could you give us a small discount?"
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "Why is the man calling?",
+     "opts": [
+      "To confirm a delivery address",
+      "To report a problem with an order",
+      "To advertise a sale",
+      "To ask for a payment"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 目的題聽開頭：calling about the order… black chairs are out of stock。2. 缺貨 ＝ a problem with an order。3. 選 B。"
+    },
+    {
+     "n": 24,
+     "stem": "Why does the woman need the chairs soon?",
+     "opts": [
+      "Her office is moving.",
+      "Some chairs were damaged.",
+      "New employees start on Monday.",
+      "A meeting is on Friday."
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 聽 we need them for new staff starting Monday。2. new staff ＝ new employees。3. 選 C。Friday 是送貨日，damaged 原文沒說，都是陷阱。"
+    },
+    {
+     "n": 25,
+     "stem": "What does the woman request?",
+     "opts": [
+      "A different color",
+      "A discount",
+      "A refund",
+      "A faster delivery"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 聽最後 could you give us a small discount?。2. could you…? ＝ 請求。3. 選 B。gray 是她接受的顏色，不是請求的重點。"
+    }
+   ]
+  }
+ ]
+}
