@@ -1,0 +1,349 @@
+{
+ "day": 12,
+ "date": "2026-11-09",
+ "title": "TOEIC 每日練習 Day 12（2026-11-09）",
+ "summary": "Day 8 拿到 20/25，進步很多。今天針對 Day 8 錯的地方加強：假設語氣的時態配對（主要子句 will／can 配 if + 現在式、would 配過去式、would have 配 had + p.p.）、who／whose／which 對照、Part 7 的 NOT 題，以及聽力「說話者接下來要做什麼」（聽 I'll 那句）。另外加一題新字 ensure。做完按「交卷」就會自動回傳成績；Day 9–11 也還沒交，有空可以補做。",
+ "sections": [
+  {
+   "kind": "p5",
+   "heading": "Part 5 文法與字彙（建議 11 分鐘）",
+   "tip": "假設語氣先看主要子句：will／can／please＝if 用現在式；would／could + 原形＝if 用過去式；would have + p.p.＝if 用 had + p.p.。關係代名詞：whose + 名詞、who + 動詞（人）、which（物）。空格後只有名詞選介系詞（Despite、during）。",
+   "qs": [
+    {
+     "n": 1,
+     "stem": "If the train ------- late tomorrow, we will start the meeting without Mr. Park.",
+     "opts": [
+      "is",
+      "were",
+      "had been",
+      "would be"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 先看主要子句 will start ＝ 未來真實可能發生。2. if 子句用現在式（不用 will）。3. 選 is。Day 8 錯過同類型：主要子句是 will，if 子句就用現在式。"
+    },
+    {
+     "n": 2,
+     "stem": "If our team ------- more staff, we could finish the project faster.",
+     "opts": [
+      "has",
+      "had",
+      "will have",
+      "have had"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 主要子句 could finish ＝ 與現在事實相反（現在人手不夠）。2. if 子句用過去式。3. 選 had。could／would + 原形都對應 if + 過去式。"
+    },
+    {
+     "n": 3,
+     "stem": "If Ms. Lin had checked the address, the package ------- to the wrong office.",
+     "opts": [
+      "would not go",
+      "will not go",
+      "would not have gone",
+      "does not go"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. if 子句 had checked ＝ 與過去事實相反。2. 主要子句用 would (not) have + p.p.。3. 選 would not have gone。Day 8 的 Q4 就是誤選 would + 原形。"
+    },
+    {
+     "n": 4,
+     "stem": "If customers ------- a receipt, they can return items within 30 days.",
+     "opts": [
+      "keep",
+      "kept",
+      "had kept",
+      "would keep"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 主要子句 can return ＝ 一般真實規定。2. if 子句用現在式。3. 選 keep。"
+    },
+    {
+     "n": 5,
+     "stem": "The company is looking for an engineer ------- can speak Japanese.",
+     "opts": [
+      "whose",
+      "who",
+      "which",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後直接是動詞 can speak。2. 缺主詞，先行詞是人（an engineer）。3. 選 who。Day 8 的 Q10 誤選 whose。"
+    },
+    {
+     "n": 6,
+     "stem": "Ms. Wang is the manager ------- office is next to the elevator.",
+     "opts": [
+      "who",
+      "whose",
+      "which",
+      "whom"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後是名詞 office，再接 is。2. 「經理『的』辦公室」。3. 選 whose。口訣：whose + 名詞、who + 動詞。"
+    },
+    {
+     "n": 7,
+     "stem": "The printer ------- we bought last month has already stopped working.",
+     "opts": [
+      "who",
+      "whose",
+      "which",
+      "what"
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 先行詞是物（the printer），不是人，先刪 who。2. 空格後 we bought，缺受詞（買了什麼）。3. 選 which。whose 後面要接名詞，這裡接的是 we。"
+    },
+    {
+     "n": 8,
+     "stem": "------- the price increase, sales of the new model remained strong.",
+     "opts": [
+      "Although",
+      "Despite",
+      "Because",
+      "Unless"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the price increase 是名詞片語，沒有動詞。2. 沒動詞＝介系詞，只有 Despite 是介系詞。3. 選 Despite。"
+    },
+    {
+     "n": 9,
+     "stem": "The library will be closed ------- the holiday weekend.",
+     "opts": [
+      "while",
+      "during",
+      "because",
+      "although"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 空格後 the holiday weekend 是名詞，沒有動詞。2. 選介系詞 during。while 是連接詞，後面要接主詞＋動詞。"
+    },
+    {
+     "n": 10,
+     "stem": "Regular maintenance keeps the machines ------- for many years.",
+     "opts": [
+      "reliable",
+      "reliably",
+      "reliability",
+      "rely"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. keep + 受詞（the machines）+ 空格。2. 描述機器的狀態，用形容詞。3. 選 reliable。"
+    },
+    {
+     "n": 11,
+     "stem": "Please ------- that all lights are turned off before you leave.",
+     "opts": [
+      "ensure",
+      "ensuring",
+      "ensured",
+      "to ensure"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Please 後面接祈使句，動詞用原形。2. 選 ensure（確保）。ensure that… 是多益常見句型，新字請記下來。"
+    },
+    {
+     "n": 12,
+     "stem": "All employees must comply ------- the new travel policy.",
+     "opts": [
+      "to",
+      "with",
+      "for",
+      "at"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：comply with ＝ 遵守，固定搭配，選 with。第七次出現了，看到 comply 直接選 with。"
+    }
+   ]
+  },
+  {
+   "kind": "p7",
+   "heading": "Part 7 短篇閱讀（建議 9 分鐘）",
+   "tip": "先讀題目、圈關鍵字（Friday、NOT、available），再回原文找那一句。NOT 題四個選項都要回原文打勾。",
+   "passage": [
+    "To: All Staff",
+    "From: IT Department",
+    "Subject: Computer System Update",
+    "",
+    "This Saturday, November 14, the company's computer system will be updated from 9:00 A.M. to 3:00 P.M. During this time, e-mail and the online ordering system will not be available.",
+    "Before you leave on Friday, please save your files and shut down your computer. You do not need to unplug it.",
+    "If you have problems logging in on Monday, please call the IT help desk at extension 330."
+   ],
+   "qs": [
+    {
+     "n": 13,
+     "stem": "What is the purpose of the e-mail?",
+     "opts": [
+      "To announce a new ordering system",
+      "To inform staff about a system update",
+      "To ask staff to buy new computers",
+      "To explain a change in office hours"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 看主旨 Computer System Update 和第一句。2. 系統更新 ＝ a system update。3. 選 B。"
+    },
+    {
+     "n": 14,
+     "stem": "What are employees asked to do on Friday?",
+     "opts": [
+      "Unplug their computers",
+      "Call the help desk",
+      "Save their files and shut down their computers",
+      "Work until 3:00 P.M."
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 找 Friday 那句：save your files and shut down your computer。2. 選 C。A 是陷阱，原文說 You do not need to unplug it（不用拔插頭）。"
+    },
+    {
+     "n": 15,
+     "stem": "The word \"available\" in paragraph 1 is closest in meaning to",
+     "opts": [
+      "usable",
+      "expensive",
+      "finished",
+      "necessary"
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. will not be available ＝ 無法使用。2. available 在這裡 ＝ 可以使用的 ＝ usable。3. 選 A。"
+    },
+    {
+     "n": 16,
+     "stem": "What is NOT mentioned in the e-mail?",
+     "opts": [
+      "The time of the update",
+      "The help desk's extension number",
+      "What will be unavailable",
+      "The reason for the update"
+     ],
+     "ans": 3,
+     "exp": "判斷步驟：NOT 題逐一回原文打勾。A：9:00 to 3:00，有。B：extension 330，有。C：e-mail and the online ordering system，有。D：為什麼要更新沒提，選 D。Day 8 也錯 NOT 題，記得四個選項都要回原文找。"
+    }
+   ]
+  },
+  {
+   "kind": "part2",
+   "heading": "Part 2 聽力應答（建議 6 分鐘）",
+   "tip": "Didn't／Aren't 開頭的否定疑問句，把 not 拿掉再理解；Why don't you／we 是建議，刪掉 Because；聽到 or 就刪掉 Yes 開頭的選項，「兩個都不選」也可能是正解。",
+   "qs": [
+    {
+     "n": 17,
+     "stem": "Didn't Mr. Lee send you the contract?",
+     "opts": [
+      "Yes, I got it this morning.",
+      "He's a good contractor.",
+      "Send it by Friday."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 把 not 拿掉：Did Mr. Lee send you the contract?。2. A「有，今天早上收到」，對應。3. B 用 contract／contractor 發音陷阱；C 重複 send。",
+     "audio": "d12_17.mp3"
+    },
+    {
+     "n": 18,
+     "stem": "Aren't we supposed to meet the client at two?",
+     "opts": [
+      "No, it was moved to four.",
+      "The client is from Tokyo.",
+      "Two tickets, please."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 當成 Are we supposed to meet the client at two?。2. A「不是，改到四點了」，對應。3. B 重複 client；C 重複 two。",
+     "audio": "d12_18.mp3"
+    },
+    {
+     "n": 19,
+     "stem": "Why don't we take a short break?",
+     "opts": [
+      "Because I broke it.",
+      "Sure, I need some coffee.",
+      "It was a long meeting yesterday."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. Why don't we…? ＝ 提議。2. Sure ＝ 接受。3. A 是 Because 開頭，又用 break／broke 陷阱。",
+     "audio": "d12_19.mp3"
+    },
+    {
+     "n": 20,
+     "stem": "Why don't you ask Susan for help with the slides?",
+     "opts": [
+      "Good idea, she's great at design.",
+      "Because the slides are long.",
+      "I slid on the ice."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. Why don't you…? ＝ 建議對方。2. Good idea ＝ 接受建議。3. B 是 Because 開頭；C 用 slides／slid 發音陷阱。",
+     "audio": "d12_20.mp3"
+    },
+    {
+     "n": 21,
+     "stem": "Would you like tea or coffee?",
+     "opts": [
+      "Yes, please.",
+      "Just water, thanks.",
+      "The coffee shop is closed."
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 有 or，先刪 Yes 開頭的 A。2. B「水就好」，兩個都不選也是正確回應。3. C 重複 coffee。",
+     "audio": "d12_21.mp3"
+    },
+    {
+     "n": 22,
+     "stem": "Is the workshop on Tuesday or Thursday?",
+     "opts": [
+      "It's been changed to Wednesday.",
+      "Yes, it's on Tuesday.",
+      "I work in the shop."
+     ],
+     "ans": 0,
+     "exp": "判斷步驟：1. 有 or，刪 Yes 開頭的 B。2. A「改到星期三了」，第三種答案也常是正解。3. C 用 workshop／shop 陷阱。",
+     "audio": "d12_22.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "talk",
+   "heading": "Part 4 電話留言（建議 4 分鐘）",
+   "tip": "播放前先讀三題，圈出 why calling、why can't、do today。未來動作題就聽 I'll… 那一句。",
+   "audio": "d12_S.mp3",
+   "script": [
+    "Speaker: Hi, this is Laura Chen from Greenfield Dental Clinic, calling for Mr. Brown. You have an appointment tomorrow at 10 A.M. Unfortunately, Dr. Smith has to attend a conference, so we need to move your appointment. We can see you on Thursday at the same time, or Friday afternoon at 3. Please call us back at 555-0182 to let us know which time you prefer. I'll also send you a text message with these details today."
+   ],
+   "qs": [
+    {
+     "n": 23,
+     "stem": "Why is the speaker calling?",
+     "opts": [
+      "To confirm a payment",
+      "To change an appointment",
+      "To announce a new doctor",
+      "To ask about a conference"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 目的題聽開頭到 so we need to move your appointment。2. move ＝ change。3. 選 B。conference 是原因，不是來電目的。"
+    },
+    {
+     "n": 24,
+     "stem": "Why can't Dr. Smith see Mr. Brown tomorrow?",
+     "opts": [
+      "He is sick.",
+      "He is on vacation.",
+      "He has to attend a conference.",
+      "The clinic is closed."
+     ],
+     "ans": 2,
+     "exp": "判斷步驟：1. 聽 Dr. Smith has to attend a conference。2. 選 C。其他選項原文都沒提。"
+    },
+    {
+     "n": 25,
+     "stem": "What will the speaker do today?",
+     "opts": [
+      "Call Mr. Brown again",
+      "Send a text message",
+      "Visit Mr. Brown",
+      "Cancel the appointment"
+     ],
+     "ans": 1,
+     "exp": "判斷步驟：1. 下一步／未來動作題，聽 I'll…：I'll also send you a text message。2. 選 B。A 是陷阱：是要 Mr. Brown 回電，不是說話者再打。Day 8 的 Q25 也是聽 I'll 那句。"
+    }
+   ]
+  }
+ ]
+}
